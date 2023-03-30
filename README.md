@@ -183,7 +183,7 @@ If you like this project please follow me on github & twitter and also connect o
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/yin-ka/To-Do-list/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/yin-ka/Todo-lists/blob/main/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
