@@ -73,22 +73,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Comming Soon...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- WalkThrough Video -->
-
-## 🦻 WalkThrough Video <a name="#walkthrough-demo"></a>
-
--  Comming Soon...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
